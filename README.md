@@ -1,2 +1,2 @@
-# PWN-Linux-Luminarium
+# Linux-Luminarium@pwn.college
 Writeups 
